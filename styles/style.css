@@ -47,6 +47,7 @@ body {
 
 .apresentacao__conteudo {
     max-width: 615px;
+    padding: 20px;
 }
 
 .apresentacao__conteudo__titulo {
@@ -68,7 +69,8 @@ body {
     flex-direction: column;
     align-items: center;
     gap: 20px;
-    margin-top: 40px;
+    margin-top: 20px;
+    padding: 40px;
 }
 
 .apresentacao__links__subtitulo {
